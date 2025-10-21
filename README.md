@@ -28,6 +28,6 @@ Check out the live demo: [worldwise-jonas.netlify.app](https://worldwise-jonas.n
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/worldwise.git
+   git clone https://github.com/ifaezdl/worldwise.git
    cd worldwise
    ```
